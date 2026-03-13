@@ -1,0 +1,30 @@
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\bin\Debug\OOPlab1.exe.config
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\bin\Debug\OOPlab1.exe
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\bin\Debug\OOPlab1.pdb
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\obj\Debug\OOPlab1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\obj\Debug\OOPlab1.Form1.resources
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\obj\Debug\OOPlab1.Properties.Resources.resources
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\obj\Debug\OOPlab1.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\obj\Debug\OOPlab1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\obj\Debug\OOPlab1.exe
+C:\Users\Nikita\Desktop\visual studio\OOPlab1\OOPlab1\obj\Debug\OOPlab1.pdb
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\bin\Debug\OOPlab1.exe.config
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\bin\Debug\OOPlab1.exe
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\bin\Debug\OOPlab1.pdb
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\obj\Debug\OOPlab1.csproj.AssemblyReference.cache
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\obj\Debug\OOPlab1.Form1.resources
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\obj\Debug\OOPlab1.Properties.Resources.resources
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\obj\Debug\OOPlab1.csproj.GenerateResource.cache
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\obj\Debug\OOPlab1.csproj.CoreCompileInputs.cache
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\obj\Debug\OOPlab1.exe
+C:\Users\wildm\Downloads\OOP-main\OOP-main\OOPlab1\obj\Debug\OOPlab1.pdb
+C:\Uni\ООП\lab2\OOPlab1\obj\Debug\OOPlab1.csproj.AssemblyReference.cache
+C:\Uni\ООП\lab2\OOPlab1\obj\Debug\OOPlab1.Form1.resources
+C:\Uni\ООП\lab2\OOPlab1\obj\Debug\OOPlab1.Properties.Resources.resources
+C:\Uni\ООП\lab2\OOPlab1\obj\Debug\OOPlab1.csproj.GenerateResource.cache
+C:\Uni\ООП\lab2\OOPlab1\obj\Debug\OOPlab1.csproj.CoreCompileInputs.cache
+C:\Uni\ООП\lab2\OOPlab1\obj\Debug\OOPlab1.exe
+C:\Uni\ООП\lab2\OOPlab1\obj\Debug\OOPlab1.pdb
+C:\Uni\ООП\lab2\OOPlab1\bin\Debug\OOPlab1.exe.config
+C:\Uni\ООП\lab2\OOPlab1\bin\Debug\OOPlab1.exe
+C:\Uni\ООП\lab2\OOPlab1\bin\Debug\OOPlab1.pdb
