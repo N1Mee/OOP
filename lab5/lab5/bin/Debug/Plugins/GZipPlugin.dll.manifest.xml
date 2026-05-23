@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>GZipPlugin.dll</FileName>
+  <Sha256>3Fm+GyPo4knUdOAdGgssiH+s3e4SsQN+mwpjbuat24Q=</Sha256>
+  <Signature>orjSgD3DvxMo9CNJS8y1e4+I2xn0m+WLf/pJn1/1Jeo1TbLJAFQ4si9nIcVlpRyIYyj3o5JmCwRlYOoxpUZd+ZBm4Du+Pd6N/Gh8DMNrlFl97c6mt5/PS/1On0/s3FOWYbAbgxa0QzOGiU+0AzDpa5Y3SIXyE85FS55ERnrJPM3EnA1FxotCsaTmuce8XMyWudjrIUOAnW4FlbJx1q+q/1AVuafPHIIHVPQ8qI4ztFOdf73bC1i7twjdCfyNIVXLMoy71y85Hz4vwTAzXmLReIBKp0tsi7zQYXPI0YlSwOgyLvSjTZbB0Bn5WIwqhs2zxr0hYppt+JmL17iiHp+2lA==</Signature>
+  <NotBeforeUtc>2026-01-01T00:00:00Z</NotBeforeUtc>
+  <NotAfterUtc>2027-12-31T00:00:00Z</NotAfterUtc>
+  <Issuer>student</Issuer>
+</PluginManifest>

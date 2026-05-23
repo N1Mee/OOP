@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Lab4.Core/Lab4.Core.csproj" Id="a1a1a1a1-0000-0000-0000-000000000004" />
+  <Project Path="lab4/lab4.csproj" Id="b1b1b1b1-0000-0000-0000-000000000004" />
+  <Project Path="HockeyPlugin/HockeyPlugin.csproj" Id="c1c1c1c1-0000-0000-0000-000000000004" />
+  <Project Path="EsportsPlugin/EsportsPlugin.csproj" Id="c2c2c2c2-0000-0000-0000-000000000004" />
+  <Project Path="PluginSigner/PluginSigner.csproj" Id="d1d1d1d1-0000-0000-0000-000000000004" />
+</Solution>

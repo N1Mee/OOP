@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>ChecksumPlugin.dll</FileName>
+  <Sha256>15ieMSKa7sIsdkO3dqWP88AY4WNHh2+wWVlB1ROWef0=</Sha256>
+  <Signature>BvC5XBIEazRwSliTjweUvs6ixeSbomb4wGKTEafAczwsrmIHaSTQstjOrBYOwWGaRgx8tCmsFe9WXdaMfUIjyIUUXAwaFkDSR5uBZTNyYXa9HpU1MU5468usxcbutEleNy/w63/vqCdjMPufGsWd7Qzlr3F10m6p+z1n85U5KzaB3lmuvagixhP2Q3r7hmpa/vR5UWLkFr7bsYeOj9pFZYlfzzGFWLPG06Ltl2mViPda0trIW9ImnopQxbMkWfNIA5eS7EePKd2/e3DYkLdCmftMnGUgEsfGNVqli+BUZhztNWwEIQDMlqmTRpF3fF/0B2cn3VZBmPZxvSuWxpsVlg==</Signature>
+  <NotBeforeUtc>2026-01-01T00:00:00Z</NotBeforeUtc>
+  <NotAfterUtc>2027-12-31T00:00:00Z</NotAfterUtc>
+  <Issuer>student</Issuer>
+</PluginManifest>

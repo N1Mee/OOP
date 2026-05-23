@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>ClassmateAdapterPlugin.dll</FileName>
+  <Sha256>uKIjrDvUdy2w14SL1ydIeu/Q0UGioPkK05rUlVCDMxA=</Sha256>
+  <Signature>ds86pcdO64AOm8skMaHSnler/q0ko6Zr2DlmmuSLe+a7+ZEj/v1ubk7qt+2agDETW/Hr/nMbeUhR4VuwFdvJ+2IQq9glGl1BzzMh8CU9zi+0m91jarMYAyi0rKbd2Q7/ajjj0pHHqs1qh/1ECV2ZW7XWU9VTUyBaHwKCPhc5HQc3zLTG0sjvU6mpKPNozU2y2uQKRE2Y5r6mhnc9g+AS1I0hvU9PPoHvRwFaFL0tX8I0ApZgYFb67wUKH2oubLY5RjUxt/9Sp+m1rwhhOivNqNvyJwAJd7ltpFnRgeovnk0RQbf6PpvH5/RNCb8Ya7XKdAujoS3DxV7m8YBgXQGqcw==</Signature>
+  <NotBeforeUtc>2026-01-01T00:00:00Z</NotBeforeUtc>
+  <NotAfterUtc>2027-12-31T00:00:00Z</NotAfterUtc>
+  <Issuer>student</Issuer>
+</PluginManifest>

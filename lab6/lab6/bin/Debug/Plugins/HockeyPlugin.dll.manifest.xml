@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>HockeyPlugin.dll</FileName>
+  <Sha256>S38ih1ALpQIkFt0AinuA2q2rNY8N6V0pcSudUvzQ3tE=</Sha256>
+  <Signature>Nx7lFuJvFZKnzZqoQ5/R4lGjeFgpkYINVQ6EhSVgZTq50xjQBDO0QmImwKd0XJNtU/YM5GFJ1qh2tYr3HKdhS3P4X/aCa++vCyisGDYz5JmUUOVx4jNLl4S/ijFqAeJkMfiyQ8iC9rjhksy9yMJzQUQl3td900A5ME+C0NPpZEziLzsIwqKXPoul+tjCLC+39fVkzTcT2rsP0nJ7GpSkDKiRy5AsXBltr83WGyHMuYlif3kVra/WEiljFVdSaqIU5uXsIIoz2kXiDXEJ6jhsLXa9TTsRBamFEMxRriJsERS2omU+vdfIuhBGH5JoDT+vGKmlHGQuL72D7bHpJ3gVEA==</Signature>
+  <NotBeforeUtc>2026-01-01T00:00:00Z</NotBeforeUtc>
+  <NotAfterUtc>2027-12-31T00:00:00Z</NotAfterUtc>
+  <Issuer>student</Issuer>
+</PluginManifest>

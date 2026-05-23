@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>EsportsPlugin.dll</FileName>
+  <Sha256>pKYz73Jwq0B6R07mG9iP+sb3E9U8A5sy8+St6FTRPYY=</Sha256>
+  <Signature>lfnKv36a/PConYXASZGUWXTz8+wx7N1oZbjrvBAUsOCMKFRJUkcVc9idXQsJZRtqzPcXNytqZhFHzPPOx0ZJNSGd8yFUBGTSS9EbPrKQKjqZ9zh3WeuHTG4VBhnqLAzCwV2sK59XqCj0Rhxm0ND8FSAFp1oc8ge6V9b3dDRmiLBSzZZqS4pBGD31FfTB+GYwMbs3HrRqOSsPHYx0Va3KLUfg6NNsu4K+abarm+7mLkYpAPseckgu05pB62/3V6XQdVhiJbjMQIcNPJdFaR2Kv+y0ubnwIZqfKeDxqggRHEYtvfSIEY6iBnQEBD1dHlRbsmGJUdzp1jTeSdLYTz/EQw==</Signature>
+  <NotBeforeUtc>2026-01-01T00:00:00Z</NotBeforeUtc>
+  <NotAfterUtc>2027-12-31T00:00:00Z</NotAfterUtc>
+  <Issuer>student</Issuer>
+</PluginManifest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>AesPlugin.dll</FileName>
+  <Sha256>ex9yj/CO6qSzc3yKPame725hxw7aBCEog0V43wlDIn4=</Sha256>
+  <Signature>BPZr0AgHISyyFnDJ4pEyDGR3+xRLQ7cNx8vT7F4cOOO8+ITw53SccD4fk2Ih4UpP+iMC1zwFllszpxIA8hHN9EINh9c0wdsd+PkgbThg8ObUy1WDKB5vkNfDEd6pR3O091F1sxPK2c8dieQ+tN3gmA3hUc4WRsRLPWBqlK3bS8S11XSqP6oE4pp04McUPRtFsJ+SfW6m8hCVxJuTFfjmBm0ixodoFDVIXQ18YlHPewUGRCUo0TW+Qo8dMp8WvSPbKdQfQHCBq5UxGYiAVzX7DkPmFQNExLniJtbz6g4T9QKtgsIdGdCJS6mgHMVZZUGEkfHplrLBjGZiw1JV1dxwhw==</Signature>
+  <NotBeforeUtc>2026-01-01T00:00:00Z</NotBeforeUtc>
+  <NotAfterUtc>2027-12-31T00:00:00Z</NotAfterUtc>
+  <Issuer>student</Issuer>
+</PluginManifest>

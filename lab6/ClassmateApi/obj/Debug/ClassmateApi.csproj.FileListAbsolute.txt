@@ -1,0 +1,6 @@
+C:\Uni\OOP\lab6\ClassmateApi\bin\Debug\ClassmateApi.dll
+C:\Uni\OOP\lab6\ClassmateApi\bin\Debug\ClassmateApi.pdb
+C:\Uni\OOP\lab6\ClassmateApi\obj\Debug\ClassmateApi.csproj.AssemblyReference.cache
+C:\Uni\OOP\lab6\ClassmateApi\obj\Debug\ClassmateApi.csproj.CoreCompileInputs.cache
+C:\Uni\OOP\lab6\ClassmateApi\obj\Debug\ClassmateApi.dll
+C:\Uni\OOP\lab6\ClassmateApi\obj\Debug\ClassmateApi.pdb
